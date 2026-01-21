@@ -25,6 +25,7 @@ A living glossary of acronyms used throughout the universal system. Expand as ne
 - **K.A.R.M.A.** — Kinetic Automatic Redemption Mandatory Arc
 - **A.P.I.P.** — Agent Performance Improvement Plan
 - **F.E.A.R.** —  Feeling Emotion Awaiting Reprisal 
+- **I.C.E.** —  Injustice Control Exploitation
 ---
 
 *Add new acronyms as the system evolves. Each entry should include the full expansion and a brief description if needed.*
