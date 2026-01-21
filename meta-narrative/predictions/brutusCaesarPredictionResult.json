@@ -1,0 +1,88 @@
+{
+  "scene": "The Ides of March",
+  "seed": "Rome, 44 BCE (Ides of March)",
+  "characters": [
+    {
+      "name": "Caesar",
+      "agency": {
+        "value": 0.9,
+        "actor": "Caesar",
+        "actions": ["rule", "trust"]
+      },
+      "emotion": { "type": "Trust", "value": 0.8 }
+    },
+    {
+      "name": "Brutus",
+      "agency": {
+        "value": 0.7,
+        "actor": "Brutus",
+        "actions": ["betray", "support"]
+      },
+      "emotion": { "type": "Conflict", "value": 0.9 },
+      "choices": ["Betray", "Support"]
+    },
+    {
+      "name": "Conspirators",
+      "agency": { "value": 0.6, "actor": "Group", "actions": ["plot"] },
+      "emotion": { "type": "Fear", "value": 0.7 }
+    }
+  ],
+  "universalTruths": [
+    { "statement": "Power invites challenge", "weight": 1 },
+    { "statement": "Betrayal has consequences", "weight": 0.9 }
+  ],
+  "observers": ["Roman Senate", "public", "history"],
+  "branches": [
+    {
+      "name": "Betrayal",
+      "probability": 0.957303355781686,
+      "coherence": 3.11,
+      "outcome": "Caesar is assassinated, Rome enters chaos, Brutus is a tragic figure."
+    },
+    {
+      "name": "Loyalty",
+      "probability": 0.7310585786300049,
+      "coherence": 1.58,
+      "outcome": "Caesar consolidates power, Brutus is loyal, Rome’s fate changes."
+    }
+  ],
+  "metaNarrativeState": {
+    "MN": 1.688361934411691,
+    "details": {
+      "M": {
+        "value": 0.8,
+        "who": "Brutus",
+        "what": "choice",
+        "where": "Rome, 44 BCE (Ides of March)",
+        "why": "conflict of loyalty",
+        "how": "betrayal or support"
+      },
+      "C": {
+        "value": 0.7,
+        "participants": ["Brutus", "Caesar"],
+        "type": "trust/conflict",
+        "strength": 0.7
+      },
+      "S": { "value": 0.5, "factors": ["political instability"] },
+      "R": {
+        "value": 0.9,
+        "description": "risk of betrayal",
+        "likelihood": 0.9,
+        "impact": 1
+      },
+      "D": { "value": 0.8, "insight": "Brutus must choose" },
+      "Ag": {
+        "value": 0.7,
+        "actor": "Brutus",
+        "actions": ["betray", "support"]
+      },
+      "B": { "value": 0.6, "limits": ["loyalty", "ambition"] },
+      "L": { "value": 0.7, "leader": "Caesar", "style": "autocratic" },
+      "O": { "value": 3, "roles": ["Roman Senate", "public", "history"] },
+      "UV": {
+        "value": 0.95,
+        "principles": ["Power invites challenge", "Betrayal has consequences"]
+      }
+    }
+  }
+}
