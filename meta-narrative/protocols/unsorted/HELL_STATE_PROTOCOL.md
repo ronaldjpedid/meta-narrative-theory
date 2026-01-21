@@ -4,7 +4,7 @@
 To define the narrative consequences and metaphysical meaning of entering the “hell state” as a result of disconnection, unfairness, or refusal to reconcile with the story’s core values or its creator.
 
 ## What Triggers the Hell State?
-- Persistent unfairness or harm toward the creator (God) or the narrative’s core
+- Persistent unfairness or harm toward the creator (God of Gods || Guardian on Demand (you) or the narrative’s core
 - Refusal to reconcile, grow, or rejoin the story’s orbit
 - Acts that sever connection with the community, world, or self
 
