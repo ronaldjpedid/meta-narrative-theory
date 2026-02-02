@@ -2,3 +2,4 @@ PRIME_INSTRUCTIONS.md
 templates/
 .history/
 .git/
+node_modules/
