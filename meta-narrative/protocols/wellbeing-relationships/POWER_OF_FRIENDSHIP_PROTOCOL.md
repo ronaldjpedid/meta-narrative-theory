@@ -1,7 +1,5 @@
 # Power of Friendship Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
 The Power of Friendship Protocol affirms that true friendship is a fundamental force within the meta-narrative system. No matter the challenge, the power of genuine, caring friendship will always prevail over acquaintance, transactional, or fake friendships.
 

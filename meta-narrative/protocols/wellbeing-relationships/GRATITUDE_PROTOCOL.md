@@ -1,7 +1,5 @@
 # Gratitude Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
 This protocol encourages the regular practice and expression of gratitude within the system, fostering a culture of appreciation, support, and positive reinforcement.
 

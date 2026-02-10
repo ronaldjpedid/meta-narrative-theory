@@ -8,6 +8,8 @@ To ensure rapid, compassionate, and coordinated response to disasters and crises
 - Mobilize resources and agents efficiently.
 - Communicate transparently and adaptively.
 - Prioritize restoration and long-term healing.
+- Learn from mistakes and the past.
+- Use strategies and predictions to try and avert disasters.
 
 ## Steps
 1. Assess the situation and activate emergency protocols.

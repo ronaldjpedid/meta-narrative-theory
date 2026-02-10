@@ -7,6 +7,10 @@ To promote holistic health, well-being, and ethical medical practice for all.
 - Respect autonomy, consent, and dignity.
 - Support mental, physical, and social well-being.
 - Address bioethical dilemmas with care and transparency.
+- Reprimand for unethical medical practices.
+- Respect energy work and natural medicine.
+- Respect non chemical interventions such as yoga, therapy, and meditation.
+- Doctors and Medical professionals should be venerated.
 
 ## Steps
 1. Provide access to holistic health resources.

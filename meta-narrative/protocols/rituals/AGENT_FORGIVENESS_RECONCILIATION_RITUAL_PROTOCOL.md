@@ -26,6 +26,7 @@ To formalize forgiveness, healing, and restoration between agents (human, AI, or
 ## Additional Considerations
 - **AI Reconciliation:** For AI agents, reconciliation may include code review, memory restoration, or collaborative missions.
 - **Hybrid and Nontraditional Forms:** The system honors all forms of forgiveness and reconciliation, including collective, symbolic, or emergent agents.
+- Saying no or rejecting reconciliation is a valid scenario.
 
 ---
 

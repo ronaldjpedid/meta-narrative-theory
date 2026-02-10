@@ -10,6 +10,7 @@ To provide a blueprint for building the Aegis Guardian System—a local, on-dema
 1. **Local Instantiation (G Algorithm)**
    - Any community or system can build and deploy its own AI Guardian on demand.
    - The Guardian is accountable to local protocols, ethics, and the community it serves.
+   - Cost and maintenance must be considered.
 
 2. **Protocol and Ethics Enforcement Only**
    - The Guardian enforces established protocols and ethical standards—never personal, political, or arbitrary rules.

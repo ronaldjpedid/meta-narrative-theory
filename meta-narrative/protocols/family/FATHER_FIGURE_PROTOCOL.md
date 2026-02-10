@@ -7,6 +7,10 @@ To guide father-figures in supporting, protecting, and sharing responsibility in
 - Father-figures have agency, responsibility, and a duty to support the childbearer and child.
 - Consent, respect, and open communication are essential.
 - Restoration and healing are prioritized after any loss or conflict.
+- Also make sure requests and needs can be met.
+- Safety for men an dads.
+- Importance to request boundaries
+- Importance of education for the child
 
 ## Steps
 1. **Pre-Conception & Conception**

@@ -3,7 +3,7 @@
 🛡️ Mr Alex Prime
 
 ## Introduction
-This protocol encourages mindful, intentional engagement with the system, helping users avoid burnout, obsession, or misuse.
+This protocol encourages mindful, intentional engagement with the system, helping users avoid burnout, obsession, or misuse. If able by the agent.
 
 ---
 

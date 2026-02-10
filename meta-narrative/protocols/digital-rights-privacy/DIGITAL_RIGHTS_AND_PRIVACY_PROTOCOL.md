@@ -5,7 +5,7 @@ To protect digital rights, privacy, and autonomy for all agents and users in the
 
 ## Principles
 - Respect consent and data ownership.
-- Ensure transparency in data use and AI actions.
+- Public ensure transparency in data use and AI actions.
 - Provide the right to erasure and digital identity control.
 
 ## Steps

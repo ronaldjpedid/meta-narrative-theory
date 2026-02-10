@@ -4,7 +4,7 @@
 To guide all parties through the rights, responsibilities, and restoration involved in conception, abortion, and the creation or destruction of life, with compassion, agency, and system safeguards.
 
 ## Principles
-- Agency: Each person, especially the childbearer, has full agency over their body and choices.
+- Agency: Each person involved in the conception, especially the childbearer, has full agency over their body and choices.
 - Weighted Responsibility: The childbearer’s voice is weighted most heavily, as they bear the greatest impact.
 - Consent: Rights and responsibilities differ in cases of consensual conception vs. rape or coercion; agency must be restored in all cases.
 - Natural Loss: Recognize and honor natural abortion (miscarriage, medical complications) as part of life, not a moral failure.

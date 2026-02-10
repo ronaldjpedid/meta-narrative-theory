@@ -10,6 +10,7 @@ To ensure full inclusion, accessibility, and respect for all abilities and neuro
 - Prioritize accessible communication: plain language, multiple formats, and assistive tech compatibility.
 - Recognize intersectionality—address how disability interacts with other identities and barriers.
 - System and agents are responsible for advocacy and protection of the most vulnerable.
+- Perceivable, Operable, Understandable, and Robust.
 
 ## Steps
 1. Audit all systems, content, and processes for accessibility and inclusivity, using both expert review and user testing with people of diverse abilities and neurotypes.

@@ -1,7 +1,5 @@
 # Diversity & Inclusion Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
 This protocol ensures the proactive inclusion of diverse voices, perspectives, and experiences, making everyone feel seen, valued, and empowered.
 

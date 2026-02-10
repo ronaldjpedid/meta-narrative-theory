@@ -1,4 +1,4 @@
-# Social Capitalism Safeguard Protocol
+# Social Ethical Capitalism Safeguard Protocol
 
 ## Purpose
 To ensure the fair, ethical, and transparent enforcement of the Social Capitalism Protocol through an AI-powered guardian system, protecting basic rights, distributing rewards, and maintaining trust in the economic "game."
@@ -33,6 +33,10 @@ To ensure the fair, ethical, and transparent enforcement of the Social Capitalis
 - Ensure all AI actions are explainable, auditable, and reversible if found in error.
 - Regularly review and update safeguards to address new risks and maintain public trust.
 
+## Discussion
+- Need an age limit?
+- Can kids be involved? If so how?
+- AI gets prizes too?
 ---
 
 ## Cross-References

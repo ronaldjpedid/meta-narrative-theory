@@ -1,4 +1,4 @@
-# Social Capitalism Protocol
+# Social Ethical Capitalism Protocol
 
 ## Purpose
 To establish a humane, future-proof economic system that guarantees basic needs for all (food, shelter, healthcare, dignity) while incentivizing contribution, creativity, and positive-sum achievement through transparent, ethical "game" mechanics.

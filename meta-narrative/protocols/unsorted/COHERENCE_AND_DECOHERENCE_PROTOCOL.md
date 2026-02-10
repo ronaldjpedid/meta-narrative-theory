@@ -1,7 +1,7 @@
 # Coherence and Decoherence Protocol: Narrative and System Balance
 
 ## Overview
-This protocol defines how coherence (unity, order) and decoherence (fragmentation, disorder) operate within the meta-narrative system. It provides guidance for maintaining healthy narrative flow, character agency, and system stability.
+This protocol defines how coherence (unity, order, love) and decoherence (fragmentation, disorder, fear) operate within the meta-narrative system. It provides guidance for maintaining healthy narrative flow, character agency, and system stability.
 
 ## Coherence
 - All elements (characters, storylines, energies) are aligned and working together.

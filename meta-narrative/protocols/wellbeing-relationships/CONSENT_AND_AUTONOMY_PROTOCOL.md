@@ -1,7 +1,5 @@
 # Consent & Autonomy Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
 This protocol affirms the importance of consent and autonomy in all interactions, ensuring respect for boundaries and the agency of every participant.
 

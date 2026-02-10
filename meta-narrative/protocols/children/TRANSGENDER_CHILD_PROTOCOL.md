@@ -26,6 +26,7 @@ To affirm and support transgender children in transitioning to the state of thei
 - Prioritize emotional and physical safety.
 - Maintain the right to create (e.g., bear child universes) regardless of state.
 - Adapt the protocol as the child grows and the system evolves.
+- They should never be marketed to when it comes to transitioning.
 
 ---
 
