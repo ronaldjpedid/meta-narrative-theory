@@ -7,6 +7,8 @@ To guide healthy, supportive, and resilient relationships between mothers and th
 - Each relationship is unique and essential for family stability.
 - Open communication, respect, and mutual support are key.
 - The protocol is cyclical: connect, support, reflect, and grow.
+- Importance to request boundaries
+- Importance of education for the child
 
 ## Steps
 1. **Connection**
