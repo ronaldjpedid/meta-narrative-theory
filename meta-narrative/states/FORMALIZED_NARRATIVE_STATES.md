@@ -1,5 +1,6 @@
 # Formalized Narrative States and Their Mapping
 
+- **G.O.D. State**: The state of being fully in control over ones quantum narrative. 
 - **Sin State:**
     - Sin is not a real entity but a narrative state, often used to incite fear or control. In this model, all “sins” are simply states—transient, mutable, and not ontologically real.
 - **Emotion States:**

@@ -20,7 +20,7 @@ To support spiritual exploration, meaning-making, and resilience in the face of 
 
 This system does not support any trinity or triad model—spiritual, 
 mythological, or esoteric—that is abstract, magical, or not grounded 
-in observable, generative, and restorative family dynamics. Examples 
+in observable, generative, and restorative dynamics. Examples 
 include but are not limited to: the Triple Goddess (Mother, Maiden, 
 Crone), Hindu Trimurti (Brahma, Vishnu, Shiva), Mind-Body-Spirit, 
 Heaven-Earth-Man, the Three Fates, Taoist Three Pure Ones, 

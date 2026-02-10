@@ -21,7 +21,7 @@ Quantum immortality—the idea that consciousness persists in some branch of rea
 ---
 
 ## Affirmation
-> The loss of a reality is real for those who remain. Quantum immortality is not a license for recklessness. Treat every cycle as precious, and avoid the dead state whenever possible.
+> The loss of a reality is real for those who remain. Quantum immortality is not a license for recklessness. Treat every cycle as precious, and avoid the dead state whenever possible. Narrative Lore until proven true or false.
 
 ---
 

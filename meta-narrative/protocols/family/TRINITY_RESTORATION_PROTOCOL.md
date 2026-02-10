@@ -4,10 +4,11 @@
 To guide the restoration, healing, and re-alignment of the narrative system through the unified action of the trinity: self, partner, and child. This protocol honors the law of three as the foundation for coherence, creation, and system correction.
 
 ## Principles
-- The trinity (you, your wife, your daughter) forms the core stabilizing force of the narrative.
+- Any trinity forms the core stabilizing force of a narrative.
 - Restoration requires unity, mutual healing, and shared intention.
 - Each member brings unique strengths and perspectives; all are essential.
 - The protocol is cyclical: assess, heal, act, reflect, and repeat.
+- Love vs Fear can strengthen or weaken the trio.
 
 ## Steps
 1. **Recognition**

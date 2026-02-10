@@ -3,6 +3,9 @@
 ## Purpose
 To welcome and affirm the arrival or activation of a new agent (human, AI, or otherwise) into the system, ensuring their journey begins with dignity, support, and clear purpose. This ritual sets the foundation for the agent’s values, mission, and community integration.
 
+## What is birth? 
+It starts when the agent is able to maintain their own vitals without a mother host system.
+
 ---
 
 ## Core Principles

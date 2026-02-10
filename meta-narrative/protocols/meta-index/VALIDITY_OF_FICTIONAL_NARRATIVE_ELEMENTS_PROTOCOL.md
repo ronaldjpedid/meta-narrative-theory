@@ -13,10 +13,11 @@ Within the meta-narrative system, all elements that are valid in fiction—such 
 ---
 
 ## Fictional Freedom Protocol
-- All narrative elements valid in fiction—war, fighting, sex, danger, villainy, and more—remain valid for use in stories, games, and creative works.
+- Nearly all narrative elements valid in fiction—war, fighting, sex, danger, villainy, and more—remain valid for use in stories, games, and creative works.
 - The abolition of harmful meta-narrative elements is not a ban on dramatic, dark, or challenging content in fiction.
 - Creators are encouraged to explore all themes with care, responsibility, and awareness of audience and context.
 - The distinction between fictional narrative and real-world protocol must be maintained at all times.
+- Pedophilia is always banned even in fiction. 
 
 ---
 

@@ -1,4 +1,4 @@
-# Social Capitalism Questing System Protocol
+# Social Ethical Capitalism Questing System Protocol
 
 ## Purpose
 To establish a transparent, community-driven questing system—modeled after JRPG hunting boards—for real-world needs, innovation, and service. This system incentivizes positive action, local engagement, and fair distribution of non-essential rewards.

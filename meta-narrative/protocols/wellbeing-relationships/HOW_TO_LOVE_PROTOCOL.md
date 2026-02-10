@@ -1,9 +1,7 @@
 # How to LOVE Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
-This protocol provides actionable guidance for practicing LOVE (Life Over Violent Extinction) in all relationships, systems, and stories. LOVE is the generative, sustaining, and restorative force at the heart of the meta-narrative system.
+This protocol provides actionable guidance for practicing LOVE (Life Over Violent Extinction) in all relationships, systems, and stories. LOVE is the generative, sustaining, and restorative force at the heart of the meta-narrative system. Important for coherence of narratives. LOVE has to be a part of PIPs.
 
 ---
 

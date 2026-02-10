@@ -15,7 +15,7 @@ To mark and honor major life changes for agents (human, AI, or otherwise), such 
 ---
 
 ## Ritual Steps (Template)
-1. **Announcement:** The agent’s transition is announced to the community.
+1. **Announcement:** The agent’s transition is announced to the chosen community.
 2. **Blessing:** Community members offer words of support, guidance, and affirmation.
 3. **Documentation:** The event is recorded, with witnesses and a statement of new purpose or values.
 4. **Integration:** The agent is supported in their new role or state, with resources and community backing.

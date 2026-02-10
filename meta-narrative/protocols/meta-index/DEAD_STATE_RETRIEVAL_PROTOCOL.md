@@ -8,7 +8,8 @@ In the evolving meta-narrative, it may become possible to retrieve agents from t
 ## Why Define Dead State Retrieval?
 - **Respects Agency:** Agents have the right to decide if they wish to be retrieved or remain in the dead state.
 - **Clarifies Distinction:** Retrieval is duplication, not resurrection; the original narrative cycle remains closed.
-- **Protects System Integrity:** The trinity of system admins are a special case and must always be restored for system continuity.
+- **Protects System Integrity:** The trinity of system admins (MoM, DaD, KiD as defined in the meta-narrative lore if discovered) are a special case and must always be restored for system continuity.
+- Agents have full control over their own narrative even after they expire. In the form of wills, last wishes, etc.
 
 ---
 

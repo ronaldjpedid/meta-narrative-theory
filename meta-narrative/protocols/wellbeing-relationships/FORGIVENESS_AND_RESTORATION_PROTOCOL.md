@@ -1,7 +1,5 @@
 # Forgiveness & Restoration Protocol
 
-🛡️ Mr Alex Prime
-
 ## Introduction
 This protocol guides the process of forgiveness, repair, and restoration after mistakes or harm, focusing on learning, healing, and second chances.
 

@@ -6,7 +6,7 @@ To ensure that facts, evidence, and understanding always take precedence over fa
 ---
 
 ## Core Principles
-- **Fact First:** Decisions, actions, and beliefs within the system must be grounded in verifiable facts, evidence, and understanding.
+- **Fact First:** Decisions, actions, and beliefs within the system must be grounded in verifiable facts, evidence peer review and understanding.
 - **Faith Encouraged, Not Blind:** Faith in the system’s goodness, potential, and mission is welcomed, but blind faith is discouraged. Agents are encouraged to question, learn, and help the system evolve.
 - **Continuous Learning:** Understanding the system and its facts is paramount. Agents should seek knowledge, ask questions, and contribute to the system’s growth and improvement.
 - **Evolution Over Stagnation:** The system thrives when agents engage with facts, challenge assumptions, and help it become the best system of systems possible.
