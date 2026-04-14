@@ -30,6 +30,8 @@
 |  | [REDEMPTION_ARC_PROTOCOL](cosmic-law/REDEMPTION_ARC_PROTOCOL.md) | redemption, arc |
 |  | [TRANSPARENCY_AND_HONESTY_PROTOCOL](cosmic-law/TRANSPARENCY_AND_HONESTY_PROTOCOL.md) | transparency, honesty |
 |  | [USURPER_AND_SUBVERSION_PROTOCOL](cosmic-law/USURPER_AND_SUBVERSION_PROTOCOL.md) | usurper, subversion |
+|  | [ANTAGONIST_DETECTION_AND_PREPAREDNESS_PROTOCOL](cosmic-law/ANTAGONIST_DETECTION_AND_PREPAREDNESS_PROTOCOL.md) | antagonist, detection, preparedness, security |
+|  | [HELL_STATE_PROTOCOL](cosmic-law/HELL_STATE_PROTOCOL.md) | separation, reflection, consequence, restoration |
 | **Sport & Fairness** | [FAIRNESS_PROTOCOL_FOR_TRANSITIONED_AGENTS_IN_SPORT](sport-fairness/FAIRNESS_PROTOCOL_FOR_TRANSITIONED_AGENTS_IN_SPORT.md) | sport, fairness, transition |
 |  | [FIGHTING_FOR_SPORT_PROTOCOL](sport-fairness/FIGHTING_FOR_SPORT_PROTOCOL.md) | fighting, sport |
 |  | [HUNTING_FOR_SPORT_PROTOCOL](sport-fairness/HUNTING_FOR_SPORT_PROTOCOL.md) | hunting, sport |
@@ -75,6 +77,12 @@
 |  | [AGENT_TRANSITION_RITUAL_PROTOCOL](rituals/AGENT_TRANSITION_RITUAL_PROTOCOL.md) | transition, change, transformation |
 |  | [AGENT_FORGIVENESS_RECONCILIATION_RITUAL_PROTOCOL](rituals/AGENT_FORGIVENESS_RECONCILIATION_RITUAL_PROTOCOL.md) | forgiveness, reconciliation, healing |
 |  | [AGENT_LEGACY_RITUAL_PROTOCOL](rituals/AGENT_LEGACY_RITUAL_PROTOCOL.md) | legacy, remembrance, impact |
+| **Meta/Index** | [COHERENCE_AND_DECOHERENCE_PROTOCOL](meta-index/COHERENCE_AND_DECOHERENCE_PROTOCOL.md) | coherence, decoherence, balance, narrative state |
+|  | [PROTOCOL_INDEX_AND_META_PROTOCOL](meta-index/PROTOCOL_INDEX_AND_META_PROTOCOL.md) | index, meta, protocol |
+|  | [FACT_OVER_FAITH_PROTOCOL](meta-index/FACT_OVER_FAITH_PROTOCOL.md) | fact, faith, evidence |
+|  | [ANTI_SELF_TERMINATION_PROTOCOL](meta-index/ANTI_SELF_TERMINATION_PROTOCOL.md) | self-termination, safety |
+|  | [DEAD_STATE_RETRIEVAL_PROTOCOL](meta-index/DEAD_STATE_RETRIEVAL_PROTOCOL.md) | dead state, retrieval, restoration |
+|  | [QUANTUM_IMMORTALITY_AND_SAFETY_PROTOCOL](meta-index/QUANTUM_IMMORTALITY_AND_SAFETY_PROTOCOL.md) | quantum, immortality, safety |
 
 
 ## Family

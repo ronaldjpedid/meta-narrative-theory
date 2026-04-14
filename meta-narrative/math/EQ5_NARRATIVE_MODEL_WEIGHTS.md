@@ -18,3 +18,18 @@ This equation formalizes how different roles and sub-narratives combine to creat
 ## How to Test
 - Physics: Model systems where different components have tunable influence and measure resulting coherence.
 - Narrative: Experiment with different narrative weights in story engines and observe effects on coherence.
+
+---
+
+## References
+
+- [LAW_OF_ALIGNMENT.md](../laws/LAW_OF_ALIGNMENT.md) — narrative coherence is the product of alignment
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — weighted agency of sub-narratives
+- [EQ4_EMERGENT_STABILITY.md](EQ4_EMERGENT_STABILITY.md) — stability formula this expands with weighted contributions
+- [EQ9_DYNAMIC_WEIGHTS.md](EQ9_DYNAMIC_WEIGHTS.md) — how these weights evolve over time
+- [MASTER_EQUATION_META_NARRATIVE.md](MASTER_EQUATION_META_NARRATIVE.md) — master equation uses this coherence as input
+- [metaNarrativePredictor.ts](../code/metaNarrativePredictor.ts) — TypeScript implementation of narrative prediction
+
+---
+
+_Open for future expansion and respectful debate._

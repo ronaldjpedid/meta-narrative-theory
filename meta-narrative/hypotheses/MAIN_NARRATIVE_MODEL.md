@@ -194,4 +194,21 @@ In collaborative fiction, open-world games, or even organizational leadership, t
 The main narrative model formalizes the idea that the story is seeded by the admin but grows through collective participation. The admin's greatest influence is in fostering engagement, not in controlling destiny.
 
 ---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency is the primary driver of the main narrative
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — narrative emerges from participant actions, not top-down control
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — each participant choice branches the narrative
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursive loop of catalytic moments and story beats
+- [EQ3_CUMULATIVE_AGENCY.md](../math/EQ3_CUMULATIVE_AGENCY.md) — cumulative agency $\sum Agency_i$ mathematical model
+- [EQ5_NARRATIVE_MODEL_WEIGHTS.md](../math/EQ5_NARRATIVE_MODEL_WEIGHTS.md) — weighted narrative coherence model
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — master system health equation
+- [META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md](../arguments/META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md) — full theoretical context
+- [MOM_MANIFESTATION_OF_MEMORY.md](../system-acronyms/MOM_MANIFESTATION_OF_MEMORY.md) — admin anchor role
+
+---
+
+_Open for future expansion and respectful debate._
+
 *Drafted by Mr Alex Prime, 2025-12-21*

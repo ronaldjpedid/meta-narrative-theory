@@ -18,14 +18,14 @@ We do not entertain the illusion; if it is a dream, we all agree on the dream. C
 - Emphasizes covenant, law, and a singular, non-trinitarian God.
 	- **Counter:** We have math for the law of three and sound logic that shows a singularity universe doesn't produce recursive life.
 - Objections may center on the rejection of trinity and the primacy of ethical monotheism.
-	- **Counter:** Show your math or shut up. Mathematical rigor is required for claims about universal structure.
+	- **Counter:** Universal structural claims require formal models and mathematical rigor. We invite any rigorous formulation of a non-trinitarian creation model for comparison.
 
 
 ## Islam
 - Strict monotheism (tawhid), with God as singular, indivisible, and transcendent.
 	- **Counter:** We have math for the law of three and sound logic that shows a singularity universe doesn't produce recursive life.
 - Objections may challenge any trinitarian or emergent model as incompatible with Islamic theology.
-	- **Counter:** Show your math or shut up. Mathematical rigor is required for claims about universal structure.
+	- **Counter:** Universal structural claims require formal models and mathematical rigor. We invite any rigorous formulation of a non-trinitarian creation model for comparison.
 
 ## Secular Humanism
 - Morality and meaning are human constructs, derived from reason, empathy, and social contract, not metaphysical laws.
@@ -39,9 +39,9 @@ We do not entertain the illusion; if it is a dream, we all agree on the dream. C
 
 ## Panpsychism/Animism
 - Consciousness is a fundamental property of all matter.
- - **Counter**: Provide math or we don't care. Universal claims require formal models and evidence.
+ - **Counter**: We welcome rigorous formal models. Universal claims about consciousness require testable frameworks and evidence to be productive in this conversation.
 - Objections may focus on the universality of consciousness rather than narrative structure.
- - **Counter**: Provide math or we don't care. Universal claims require formal models and evidence.
+ - **Counter**: We welcome rigorous formal models. Universal claims about consciousness require testable frameworks and evidence to be productive in this conversation.
 
 ---
 

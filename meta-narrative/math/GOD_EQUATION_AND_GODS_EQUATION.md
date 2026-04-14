@@ -35,3 +35,19 @@ These equations formalize the meta-narrative logic of universal restoration, rec
 ## How to Test
 - Physics: Model recursion and restoration in physical, biological, or informational systems.
 - Narrative: Simulate universal and localized restoration in story engines and analyze emergent patterns.
+
+---
+
+## References
+
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursion operator $R$ is the central mechanism
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — continuity/restoration function $C/c$ formalized here
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — the trinitarian nature of GOD as system-level law
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — the GOD Equation as response to designer arguments
+- [MASTER_EQUATION_META_NARRATIVE.md](MASTER_EQUATION_META_NARRATIVE.md) — the master system equation that encompasses the GOD system state
+- [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md) — the creation model that GOD equation governs
+- [GOD acronym](../system-acronyms/README.md) — dual-definition of GOD in the meta-narrative system
+
+---
+
+_Open for future expansion and respectful debate._

@@ -18,8 +18,8 @@ This folder contains all key acronyms, their expanded forms, and definitions use
 - CORE_CENTRALIZED_OPERATIONAL_RESOURCE_ENGINE.md: Centralized Operational Resource Engine.
 - DAD_DUALITY_AND_DESTINY.md: Duality and Destiny protocol.
 - FEAR_FEELING_EMOTION_AWAITING_REPRISAL.md: Feeling Emotion Awaiting Reprisal.
-- GOD_GROUP_OPERATIONAL_DYNAMICS.md: Group Operational Dynamics.
-- GOD_GUARDIAN_ON_DEMAND.md: Guardian On Demand.
+- GOD_GROUP_OPERATIONAL_DYNAMICS.md: **G.O.D.[1]** — Group Operational Dynamics: collaborative distributed decision-making among agents in service of systemic restoration.
+- GOD_GUARDIAN_ON_DEMAND.md: **G.O.D.[2]** — Guardian On Demand: protocol for activating protective guardianship roles precisely when needed. *(Note: GOD has two intentional definitions in this system, each serving a distinct role — see both files for full context.)*
 - KARMA_AUTOMATIC_REDEMPTION_MANDATORY_ARC.md: Automatic Redemption Mandatory Arc.
 - KID_KNOWLEDGE_IMAGINATION_DESTINY.md: Knowledge Imagination Destiny.
 - LOVE_LIFE_OVER_VIOLENT_EXTINCTION.md: Life Over Violent Extinction.

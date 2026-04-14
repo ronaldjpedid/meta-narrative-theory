@@ -26,3 +26,19 @@ The Chrono-Space-Lattice is the dynamic structure that emerges from the interpla
 ## How to Test
 - Physics: Apply to models of space-time, information theory, and quantum computation.
 - Narrative: Use in story engines to simulate the evolution of narrative structure and coherence.
+
+---
+
+## References
+
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — the lattice is recursively constructed from previous states
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — matter/antimatter narrative pairs map to branch stability
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — conservation of narrative information at each lattice node
+- [EQ7_BRANCHING_PROBABILITY.md](EQ7_BRANCHING_PROBABILITY.md) — branching probability governs which lattice nodes expand
+- [MASTER_EQUATION_META_NARRATIVE.md](MASTER_EQUATION_META_NARRATIVE.md) — master system state is a function of the lattice state
+- [CHRONO_SPACE_LATTICE.md](../hypotheses/CHRONO_SPACE_LATTICE.md) — hypothesis document expanding this equation
+- [QUANTUM_PHYSICS_ARGUMENT.md](../arguments/QUANTUM_PHYSICS_ARGUMENT.md) — quantum space-time as physical analog
+
+---
+
+_Open for future expansion and respectful debate._

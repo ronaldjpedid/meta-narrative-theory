@@ -24,6 +24,16 @@ Where:
 - $\text{Unique}(\varnothing)$ denotes a unique, spontaneous event arising from nothingness, not anchored by prior cause or agent.
 - This event is logically necessary to resolve the base reality paradox: it is forbidden for there to be no story, so a story must begin.
 
+**The Non-Existence Axiom:**
+$\varnothing$ — the pre-existence state — can occur exactly once. It is logically self-extinguishing: the moment $S_0$ emerges, existence is initiated and the condition $\varnothing$ is permanently exited. Non-existence is not an ongoing alternative that existence competes with; it is the singular precondition that existence resolves. Once the first story begins, there is no second $\varnothing$ — there is only the unfolding of the narrative from $S_0$ forward.
+
+Formally:
+$$
+|\varnothing\text{-instances}| = 1
+$$
+
+This is the argument for why existence cannot simply return to non-existence: $\varnothing$ cannot be re-created once $S_0$ has occurred, because re-creation itself requires existence. The only path is forward — through entropy, restoration, and recursion.
+
 ---
 
 ## 3. Narrative Implications
@@ -67,7 +77,7 @@ Quantum mechanics is not just a physical law but a narrative mechanism, woven in
 
 ---
 
-## 4. Visual Model (Optional)
+## 11. Visual Model (Optional)
 ---
 
 ## 7. Glossary
@@ -108,6 +118,20 @@ A diagram or further mathematical expansion can be added here to illustrate the 
 
 ---
 
-## 5. Conclusion
+## 12. Conclusion
 
 The base reality seed ($S_0$) provides a rigorous, elegant solution to the origin of existence, rooting the universe in logic, necessity, and narrative imperative.
+
+---
+
+## Meta-Narrative References
+
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — information is never lost; the seed preserves all potential
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — complexity emerges recursively from $S_0$
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursive self-propagation from the base seed
+- [1_CORE_AXIOM.md](../math/1_CORE_AXIOM.md) — $P(N)=0 \implies P(E)=1$ is the mathematical form of this paradox
+- [EQ1_BASE_REALITY_SEED.md](../math/EQ1_BASE_REALITY_SEED.md) — formal equation for base reality seed
+- [BASE_REALITY_SEED_DIAGRAMS.md](BASE_REALITY_SEED_DIAGRAMS.md) — visual models of $S_0$ propagation
+- [GRAND_ASSUMPTION_MATH.md](../math/GRAND_ASSUMPTION_MATH.md) — parent mathematical framework
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — argument this formalism eliminates the need for
+- [QUANTUM_PHYSICS_ARGUMENT.md](../arguments/QUANTUM_PHYSICS_ARGUMENT.md) — quantum immortality discussed in section 4

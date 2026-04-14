@@ -45,3 +45,22 @@ This document lists possible objections and arguments from Buddhist, Taoist, sci
 ---
 
 *This document is open for future expansion and response as new objections and insights arise.*
+
+---
+
+## References
+
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — Law of Three is the central subject of most objections here
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursion models discussed throughout
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — consciousness and generativity as emergent processes
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency and choice as response to materialist objections
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — cyclical restoration as feedback response to Buddhist/Taoist objections
+- [2_SINGULARITY_DUALITY_TRINITY.md](../math/2_SINGULARITY_DUALITY_TRINITY.md) — trinity mathematics for scientific objections
+- [EQ7_BRANCHING_PROBABILITY.md](../math/EQ7_BRANCHING_PROBABILITY.md) — branching probability models as testable response
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — master equation as formal scientific response
+- [META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md](META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md) — full theory defense
+- [COSMIC_DESIGNER_ARGUMENT.md](COSMIC_DESIGNER_ARGUMENT.md) — related argument on emergent order
+
+---
+
+_Open for future expansion and respectful debate._

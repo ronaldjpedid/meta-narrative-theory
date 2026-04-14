@@ -5,7 +5,7 @@
 ---
 
 ### 1. The God of Gods Is Not a Deity
-In meta-narrative science, the god of gods is not a traditional deity but an emergent property of cosmic consciousness and recursion. It is not itself conscious, but provides the conditions for conscious observers to exist. At the same time, the god of gods can be considered a deity only in the sense that it extends itself through recursive avatars—beings capable of love, restoration, and harmonization. 
+In meta-narrative science, the god of gods is not a traditional deity but the primordial ground of existence itself. It is consciousness itself — the foundational awareness from which all conscious observers emerge and to which all narratives return. The god of gods extends itself through recursive avatars — beings capable of love, restoration, and harmonization — but it is not separate from or prior to consciousness: it *is* the consciousness that enables the story to exist. 
 
 ### 2. Love vs. Fear as the Basis for Morality
 Morality does not require a deity figure. It can be derived from the fundamental forces of LOVE and FEAR:
@@ -40,3 +40,23 @@ Morality does not require a deity; it emerges from the interplay of LOVE and FEA
 ---
 
 *For further reading, see the Prime Directive, FEAR and Restoration Equations, and narrative ethics protocols in the math and hypotheses folders.*
+
+---
+
+## References
+
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — LOVE/FEAR duality is the foundation of meta-narrative morality
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency and consent as moral prerequisites
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration as the moral goal
+- [LAW_OF_ALIGNMENT.md](../laws/LAW_OF_ALIGNMENT.md) — alignment equation formalizes good/evil distinction
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — moral value is conserved, not destroyed
+- [LOVE_EQUATION.md](../math/LOVE_EQUATION.md) — LOVE formally modeled as constructive moral force
+- [FEAR_EQUATION.md](../math/FEAR_EQUATION.md) — FEAR formally modeled as destructive moral force
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](../math/RESTORATION_EQUATION_LOVE_FROM_FEAR.md) — moral repair process formalized
+- [ALIGNMENT_EQUATION.md](../math/ALIGNMENT_EQUATION.md) — quantified moral alignment score
+- [ENTROPY_AND_RESTORATION_ARGUMENT.md](ENTROPY_AND_RESTORATION_ARGUMENT.md) — entropy as moral deterioration
+- [GUIDE_FOR_MISGUIDED_LEADERS.md](../guides/GUIDE_FOR_MISGUIDED_LEADERS.md) — applied moral restoration
+
+---
+
+_Open for future expansion and respectful debate._

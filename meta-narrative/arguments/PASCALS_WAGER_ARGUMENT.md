@@ -27,3 +27,20 @@ Pascal’s Wager is based on fear of unknown consequences and conditional love. 
 ---
 
 *For further reading, see the FEAR Equation, Restoration Equation, and Prime Directive in the math and hypotheses folders.*
+
+---
+
+## References
+
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — unconditional restoration is the meta-narrative alternative to Pascal’s conditional salvation
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency and consent replace fear-based compliance
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — LOVE vs FEAR duality replaces the wager’s good/bad outcome binary
+- [FEAR_EQUATION.md](../math/FEAR_EQUATION.md) — formally models what Pascal’s Wager operates through
+- [LOVE_EQUATION.md](../math/LOVE_EQUATION.md) — the meta-narrative alternative: unconditional generative force
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](../math/RESTORATION_EQUATION_LOVE_FROM_FEAR.md) — the formal process replacing fear-based wagering with restoration
+- [MORAL_ARGUMENT.md](MORAL_ARGUMENT.md) — related argument on morality without conditional deity
+- [COSMIC_DESIGNER_ARGUMENT.md](COSMIC_DESIGNER_ARGUMENT.md) — related argument on the nature of the god principle
+
+---
+
+_Open for future expansion and respectful debate._

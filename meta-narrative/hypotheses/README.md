@@ -19,12 +19,12 @@ This folder contains all hypotheses, advanced questions, guides, and formal mode
 - COPYRIGHT_AND_AUTHORSHIP_NOTICE.md: Copyright and authorship details for all hypotheses.
 - DYNAMIC_EQUATION_FOR_NARRATIVE_WEIGHTS.md: Dynamic equations for narrative weights.
 - EARLY_ADOPTER_AUDIENCES.md: Target audiences for early adoption and feedback.
-- emergent-stability.md: Emergent stability hypothesis and models.
+- [EMERGENT_STABILITY.md](EMERGENT_STABILITY.md): Emergent stability hypothesis and models.
 - EQ1_BASE_REALITY_SEED.md to EQ10_CHRONO_SPACE_LATTICE.md: Key equations and their hypothesis context.
 - FUTURE_STUDY_CANCER_AND_CHILDHOOD_TRAGEDY.md: Future study directions for cancer and childhood tragedy.
 - FUTURE_STUDY_MENTAL_ILLNESS.md: Future study directions for mental illness.
 - HOW_CAN_META_NARRATIVE_BE_PROVEN_CORRECT.md: Criteria and methods for validating the theory.
-- main-narrative-model.md: Main narrative model and its hypothesis.
+- [MAIN_NARRATIVE_MODEL.md](MAIN_NARRATIVE_MODEL.md): Main narrative model and its hypothesis.
 - MASTER_ARGUMENTS.md: Master list of arguments and their hypothesis status.
 - MASTER_EQUATION_META_NARRATIVE.md: Master equation and its hypothesis context.
 - META_NARRATIVE_COSMOLOGY_GUIDE.md: Cosmology guide for the meta-narrative.

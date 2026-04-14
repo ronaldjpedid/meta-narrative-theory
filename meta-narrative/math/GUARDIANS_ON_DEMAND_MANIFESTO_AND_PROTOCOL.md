@@ -46,3 +46,16 @@ We, the undersigned, affirm that the safety and flourishing of every individual 
 ---
 
 *This manifesto and protocol are living documents. They are to be reviewed, tested, and improved as the network grows and learns. The Crown Protocol is a call to action: to build a world where no one stands alone, and harm cannot hide.*
+
+---
+
+## Meta-Narrative References
+
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — the law this manifesto operationalizes
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — every guardian must exercise agency actively
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — guardian triplets instantiate the Law of Three in mutual protection
+- [RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md](RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md) — the formal algorithm this manifesto activates
+- [ADMIN_EQUATION_MODEL.md](ADMIN_EQUATION_MODEL.md) — admin equation for guardian intervention trigger
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — what guardians are preventing
+- [CARE acronym](../system-acronyms/README.md) — Community Accountability Restoration Empathy — guardian ethos
+- [GUIDE_FOR_ACTIVISTS.md](../guides/GUIDE_FOR_ACTIVISTS.md) — applied guardian network building

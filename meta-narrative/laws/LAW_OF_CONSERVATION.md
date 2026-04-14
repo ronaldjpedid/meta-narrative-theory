@@ -18,5 +18,13 @@ The Law of Conservation posits that certain quantities—such as information, en
 - Protocols ensure preservation and recovery of core values.
 
 ## References
-- See Law of Entropy for loss and restoration.
-- See Law of Alignment for coherence preservation.
+- [LAW_OF_ENTROPY.md](LAW_OF_ENTROPY.md) — conservation prevents irreversible entropy collapse
+- [LAW_OF_ALIGNMENT.md](LAW_OF_ALIGNMENT.md) — coherence preservation
+- [1_CORE_AXIOM.md](../math/1_CORE_AXIOM.md) — foundational conservation axiom
+- [EQ1_BASE_REALITY_SEED.md](../math/EQ1_BASE_REALITY_SEED.md) — conservation in the base reality seed
+- [FUNDAMENTAL_FORCES_ARGUMENT.md](../arguments/FUNDAMENTAL_FORCES_ARGUMENT.md) — physical conservation laws as evidence
+- [OTHER_MODERN_SCIENCE_ARGUMENT.md](../arguments/OTHER_MODERN_SCIENCE_ARGUMENT.md) — conservation in thermodynamics and information theory
+
+---
+
+_Open for future expansion and respectful debate._

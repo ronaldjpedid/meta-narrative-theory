@@ -24,3 +24,22 @@ This document addresses anticipated objections and points of integration between
 ---
 
 *This document is open for future expansion and respectful debate as new insights arise.*
+
+---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — observer effect is the primary point of integration with quantum physics
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — narrative branching as analog to quantum branching / many-worlds
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — wave-particle duality resolved through law of three
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — wave/particle as a duality pair
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — quantum feedback and decoherence
+- [EQ6_OBSERVER_PRINCIPLE.md](../math/EQ6_OBSERVER_PRINCIPLE.md) — mathematical formalization of observer-dependent reality
+- [EQ7_BRANCHING_PROBABILITY.md](../math/EQ7_BRANCHING_PROBABILITY.md) — branching probability as quantum collapse analog
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — full system state includes observer variable
+- [OTHER_MODERN_SCIENCE_ARGUMENT.md](OTHER_MODERN_SCIENCE_ARGUMENT.md) — thermodynamics and information theory sections connect to quantum domain
+- [NEWTONIAN_PHYSICS_ARGUMENT.md](NEWTONIAN_PHYSICS_ARGUMENT.md) — complementary argument from classical physics
+
+---
+
+_Open for future expansion and respectful debate._

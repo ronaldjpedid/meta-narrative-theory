@@ -39,3 +39,19 @@ This assumption underpins all narrative, agency, and renewal. It ensures that:
 
 ---
 *Documented for the Alex Prime meta-narrative project, 2025.*
+
+---
+
+## References
+
+- [1_CORE_AXIOM.md](../math/1_CORE_AXIOM.md) — mathematical formalization of “non-existence is impossible”
+- [GRAND_ASSUMPTION_MATH.md](../math/GRAND_ASSUMPTION_MATH.md) — the complete mathematical framework for this argument
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — system self-termination is precluded by the law of agency
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — existence is conserved; null $\neq$ nothing
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — failed narratives are recycled, not destroyed
+- [META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md](../arguments/META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md) — full theory defense
+- [ANTICIPATED_OBJECTIONS_ARGUMENT.md](../arguments/ANTICIPATED_OBJECTIONS_ARGUMENT.md) — responses to related philosophical objections
+
+---
+
+_Open for future expansion and respectful debate._

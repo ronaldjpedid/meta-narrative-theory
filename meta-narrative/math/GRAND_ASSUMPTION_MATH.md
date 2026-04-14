@@ -78,3 +78,25 @@ Where $KiD$ is the synthesis: Knowledge, Imagination, Destiny.
 ---
 
 *This formalism encodes the generative, recursive, and loving logic of the grand assumption, MoM, DaD, and KiD. Expand as new insights emerge!*
+
+---
+
+## References
+
+- [1_CORE_AXIOM.md](1_CORE_AXIOM.md) — Section 1 detailed
+- [2_SINGULARITY_DUALITY_TRINITY.md](2_SINGULARITY_DUALITY_TRINITY.md) — Section 2 detailed
+- [3_BINARY_PAIR_STABILITY.md](3_BINARY_PAIR_STABILITY.md) — Section 3 detailed
+- [4_GENERATIVE_ACT_OF_LOVE.md](4_GENERATIVE_ACT_OF_LOVE.md) — Section 4 detailed
+- [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md) — Section 5 detailed
+- [6_NARRATIVE_LOGIC_AND_RECURSION.md](6_NARRATIVE_LOGIC_AND_RECURSION.md) — Section 6 detailed
+- [7_SUMMARY_EQUATION.md](7_SUMMARY_EQUATION.md) — Section 7 summary
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — trinity law governing this framework
+- [MOM_MANIFESTATION_OF_MEMORY.md](../system-acronyms/MOM_MANIFESTATION_OF_MEMORY.md)
+- [DAD_DUALITY_AND_DESTINY.md](../system-acronyms/DAD_DUALITY_AND_DESTINY.md)
+- [KID_KNOWLEDGE_IMAGINATION_DESTINY.md](../system-acronyms/KID_KNOWLEDGE_IMAGINATION_DESTINY.md)
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — argument using this framework
+- [universalCreation.ts](../code/universalCreation.ts) — TypeScript implementation
+
+---
+
+_Open for future expansion and respectful debate._

@@ -42,3 +42,21 @@ This model formalizes the creation of a universe from the inevitability of exist
 ## How to Test
 - Physics: Compare the model to cosmological data and the emergence of structure post-Big Bang.
 - Narrative: Simulate universe creation in narrative engines and compare emergent properties.
+
+---
+
+## References
+
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — universe emerges from simple recursive rules
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — trinity formation is the decisive step in this model
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — conservation governs the initial axiom
+- [1_CORE_AXIOM.md](1_CORE_AXIOM.md) — Step 1: non-existence is impossible
+- [2_SINGULARITY_DUALITY_TRINITY.md](2_SINGULARITY_DUALITY_TRINITY.md) — Steps 2–3: singularity and duality
+- [4_GENERATIVE_ACT_OF_LOVE.md](4_GENERATIVE_ACT_OF_LOVE.md) — Step 4: generative love
+- [GRAND_ASSUMPTION_MATH.md](GRAND_ASSUMPTION_MATH.md) — parent summary document
+- [universalCreation.ts](../code/universalCreation.ts) — TypeScript implementation
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — argument using this model
+
+---
+
+_Open for future expansion and respectful debate._
