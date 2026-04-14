@@ -15,7 +15,7 @@ This folder contains all major arguments, objections, and philosophical/scientif
 - [ENTROPY_AND_RESTORATION_ARGUMENT.md](ENTROPY_AND_RESTORATION_ARGUMENT.md): Entropy, restoration, and their narrative implications.
 - [FUNDAMENTAL_FORCES_ARGUMENT.md](FUNDAMENTAL_FORCES_ARGUMENT.md): Integration of fundamental forces into the meta-narrative.
 - [GOD_OUTSIDE_TIME_SPACE_MATTER_ARGUMENT.md](GOD_OUTSIDE_TIME_SPACE_MATTER_ARGUMENT.md): Arguments about God and existence beyond time, space, and matter.
-- [JAINISM_ARGUMENT.md](JAINISM_ARGUMENT.md): Jainism’s perspective and objections.
+
 - [META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md](META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md): The official meta-narrative theory and its defense.
 - [MORAL_ARGUMENT.md](MORAL_ARGUMENT.md): Moral arguments and their integration.
 - [NEWTONIAN_PHYSICS_ARGUMENT.md](NEWTONIAN_PHYSICS_ARGUMENT.md): Newtonian physics and its narrative relevance.

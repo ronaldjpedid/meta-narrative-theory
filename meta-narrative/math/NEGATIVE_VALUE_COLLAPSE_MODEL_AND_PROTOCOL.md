@@ -31,3 +31,20 @@ This model and protocol formalize the science of narrative recovery, ensuring th
 ## How to Test
 - Physics: Model collapse and recovery in adaptive or social systems.
 - Narrative: Simulate collapse and guardian intervention in story engines and analyze recovery outcomes.
+
+---
+
+## References
+
+- [LAW_OF_ENTROPY.md](../laws/LAW_OF_ENTROPY.md) — irreversible entropy is the cause of negative value collapse
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration is always possible unless collapse is complete
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — negative feedback loops drive and sustain collapse
+- [ENTROPY_AND_RESTORATION_ARGUMENT.md](../arguments/ENTROPY_AND_RESTORATION_ARGUMENT.md) — the argument this model supports
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](RESTORATION_EQUATION_LOVE_FROM_FEAR.md) — the restoration pathway from collapse
+- [FATE_ALGORITHM.md](FATE_ALGORITHM.md) — fate collapse and revival branching
+- [ADMIN_EQUATION_MODEL.md](ADMIN_EQUATION_MODEL.md) — guardian/admin intervention model
+- [GUIDE_FOR_GRIEF_AND_LOSS.md](../guides/GUIDE_FOR_GRIEF_AND_LOSS.md) — applied recovery protocol
+
+---
+
+_Open for future expansion and respectful debate._

@@ -18,3 +18,20 @@ This equation models the dynamic evolution of coherence in a system, showing how
 ## How to Test
 - Physics: Apply to models of adaptive or evolving systems.
 - Narrative: Use in story engines to simulate the impact of agency and disruption on narrative coherence.
+
+---
+
+## References
+
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — the law this equation directly implements
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — coherence recovery ($\alpha A_t$) models restoration
+- [LAW_OF_ENTROPY.md](../laws/LAW_OF_ENTROPY.md) — disruption term ($\beta D_t$) models entropic decay
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — coherence is conserved across disruption events
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency ($A_t$) is the positive coherence driver
+- [MASTER_EQUATION_META_NARRATIVE.md](MASTER_EQUATION_META_NARRATIVE.md) — feedback loop feeds into overall meta-narrative state
+- [OTHER_MODERN_SCIENCE_ARGUMENT.md](../arguments/OTHER_MODERN_SCIENCE_ARGUMENT.md) — complex adaptive systems section applies this equation
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — models what happens when disruption overwhelms coherence
+
+---
+
+_Open for future expansion and respectful debate._

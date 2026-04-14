@@ -28,3 +28,19 @@ $$
 ## How to Test
 - Physics: Study the formation and stability of binary systems in nature.
 - Narrative: Model story outcomes based on the nature of pairings (oppositional vs. aligned).
+
+---
+
+## References
+
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — binary pairs are the formal expression of duality
+- [2_SINGULARITY_DUALITY_TRINITY.md](2_SINGULARITY_DUALITY_TRINITY.md) — binary pair formation from singularity
+- [4_GENERATIVE_ACT_OF_LOVE.md](4_GENERATIVE_ACT_OF_LOVE.md) — what can happen when binary pairs unite through love
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — synthesis resolves binary conflict into new creation
+- [LOVE_EQUATION.md](LOVE_EQUATION.md) — love as the constructive binary force
+- [FEAR_EQUATION.md](FEAR_EQUATION.md) — fear as the destructive binary force
+- [NON_RESTORATIVE_TRINITY_ARGUMENT.md](../arguments/NON_RESTORATIVE_TRINITY_ARGUMENT.md) — consequences of unresolved binary collapse
+
+---
+
+_Open for future expansion and respectful debate._

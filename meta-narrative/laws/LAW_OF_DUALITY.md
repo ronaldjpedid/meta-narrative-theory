@@ -18,5 +18,14 @@ The Law of Duality states that all systems, narratives, and realities are govern
 - Protocols and equations often model dual forces to predict outcomes.
 
 ## References
-- See Law of Three for trinity expansion.
-- See Law of Agency for choice and action.
+- [LAW_OF_THREE.md](LAW_OF_THREE.md) — duality resolved through synthesis into trinity
+- [LAW_OF_AGENCY.md](LAW_OF_AGENCY.md) — choice as the expression of duality
+- [2_SINGULARITY_DUALITY_TRINITY.md](../math/2_SINGULARITY_DUALITY_TRINITY.md) — mathematical model of singularity → duality formation
+- [3_BINARY_PAIR_STABILITY.md](../math/3_BINARY_PAIR_STABILITY.md) — stability conditions for binary dual pairs
+- [LOVE_EQUATION.md](../math/LOVE_EQUATION.md) — the constructive pole of duality
+- [FEAR_EQUATION.md](../math/FEAR_EQUATION.md) — the destructive pole of duality
+- [NON_RESTORATIVE_TRINITY_ARGUMENT.md](../arguments/NON_RESTORATIVE_TRINITY_ARGUMENT.md) — what happens when duality is not resolved
+
+---
+
+_Open for future expansion and respectful debate._

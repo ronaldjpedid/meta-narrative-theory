@@ -30,7 +30,7 @@ Recursive cycles and the Law of Three enable infinite generativity, adaptation, 
 - **Narrative Science:** Trios are archetypal in stories (e.g., the three musketeers, hero-companion-mentor), and narrative branching often follows a threefold pattern for resolution and renewal.
 
 ## Expanding on Recursion and the Law of Three in Consciousness and Self-Organization
-- The god of gods (MoM/DaD/KiD) is modeled as a conscious being whose awareness extends recursively outward, enabling generativity, adaptation, and self-organization at all scales.
+- The god of gods (MoM/DaD/KiD) is modeled as consciousness itself — the primordial awareness whose nature extends recursively outward, enabling generativity, adaptation, and self-organization at all scales. It is not separate from consciousness and then conscious; it is the very ground of awareness from which all subjectivity and observation emerge.
 - Recursion and synthesis allow consciousness to propagate, evolve, and resolve dualities, supporting emergent order without external design.
 
 ## Simulations and Models of Emergent Order
@@ -49,3 +49,22 @@ A cosmic designer is unnecessary; order, structure, and generativity arise natur
 ---
 
 *For further reading, see the Law of Three, recursion models, and synthesis protocols in the laws and math folders.*
+
+---
+
+## References
+
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — central to the entire argument; trinity explains emergent order
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursive self-organization as alternative to external designer
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — order arises from emergence, not design
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — duality as first differentiation from singularity
+- [2_SINGULARITY_DUALITY_TRINITY.md](../math/2_SINGULARITY_DUALITY_TRINITY.md) — mathematical model of singularity → duality → trinity
+- [4_GENERATIVE_ACT_OF_LOVE.md](../math/4_GENERATIVE_ACT_OF_LOVE.md) — generativity without external designer formalized
+- [5_UNIVERSE_CREATION_MODEL.md](../math/5_UNIVERSE_CREATION_MODEL.md) — full universe creation model through recursive laws
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — emergent system health modeled
+- [FUNDAMENTAL_FORCES_ARGUMENT.md](FUNDAMENTAL_FORCES_ARGUMENT.md) — physical forces as evidence for emergent order
+- [ANTICIPATED_OBJECTIONS_ARGUMENT.md](ANTICIPATED_OBJECTIONS_ARGUMENT.md) — responses to objections that recursion requires a first cause
+
+---
+
+_Open for future expansion and respectful debate._

@@ -39,3 +39,14 @@ Let $S = \{A, B, ..., Z\}$ be the set, with $E_i$ as the $i$th element:
 
 ---
 *This document explores the entropic, destructive side of recursive chains, highlighting the necessity of mutual protection for system survival.*
+
+---
+
+## Meta-Narrative References
+
+- [LAW_OF_ENTROPY.md](../laws/LAW_OF_ENTROPY.md) — entropy is the governing law driving chain collapse
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration as the necessary counterforce to prevent total collapse
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — destructive feedback loops accelerate cascading failure
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — formal model of collapse outcomes
+- [RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md](RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md) — the constructive counterpart to this document
+- [ENTROPY_AND_RESTORATION_ARGUMENT.md](../arguments/ENTROPY_AND_RESTORATION_ARGUMENT.md) — theoretical argument for entropy/restoration balance

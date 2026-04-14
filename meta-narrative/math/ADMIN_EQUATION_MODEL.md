@@ -24,3 +24,19 @@ As systems evolve, breakdowns or anomalies are inevitable. The admin equation fo
 ## How to Test
 - Physics: Model intervention in cyber-physical or social systems and measure restoration outcomes.
 - Narrative: Simulate admin/guardian roles in story engines and analyze their impact on system recovery.
+
+---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency $A_g$ is the primary condition for admin intervention
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — admin intervention is a restorative act
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — discovery $D$ is a feedback detection mechanism
+- [EQ4_EMERGENT_STABILITY.md](EQ4_EMERGENT_STABILITY.md) — admin role as stability anchor variable
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — collapse event that triggers admin intervention
+- [RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md](RECURSIVE_PROTECTIVE_CHAIN_ALGORITHM.md) — guardian network that implements admin intervention at scale
+- [GUIDE_FOR_LEADERS.md](../guides/GUIDE_FOR_LEADERS.md) — applied leadership as admin role
+
+---
+
+_Open for future expansion and respectful debate._

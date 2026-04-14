@@ -21,3 +21,20 @@ This axiom is a metaphysical postulate, but it underpins many physical theories 
 - Philosophical: Explore logical consequences of assuming $P(N) = 0$.
 - Physical: Investigate whether the universe's existence can be explained without invoking chance or external cause.
 - Narrative: Model systems where all possible stories must unfold, and see if this leads to emergent complexity similar to our universe.
+
+---
+
+## References
+
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — conservation of existence is this axiom applied as a law
+- [LAW_OF_ENTROPY.md](../laws/LAW_OF_ENTROPY.md) — entropy presupposes something exists to become disordered
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — existence emerging from void is the first emergence event
+- [2_SINGULARITY_DUALITY_TRINITY.md](2_SINGULARITY_DUALITY_TRINITY.md) — builds directly on this axiom
+- [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md) — step 1 of universe creation uses this axiom
+- [EQ1_BASE_REALITY_SEED.md](EQ1_BASE_REALITY_SEED.md) — mathematical seed equation derived from this axiom
+- [GRAND_ASSUMPTION_MATH.md](GRAND_ASSUMPTION_MATH.md) — the companion grand assumption document
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — philosophical application
+
+---
+
+_Open for future expansion and respectful debate._

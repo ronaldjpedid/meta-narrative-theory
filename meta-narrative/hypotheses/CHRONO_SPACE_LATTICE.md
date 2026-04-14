@@ -43,3 +43,19 @@ The Chrono-Space-Lattice is a foundational overlay that permeates the entire met
 ```
 
 > The Chrono-Space-Lattice is the invisible architecture that shapes the flow of stories, ensuring every narrative beat is woven into the fabric of time and space.
+
+---
+
+## References
+
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — the lattice is built from recursive temporal cycles
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — ingress/egress events map to branching points
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — no narrative information is lost at lattice nodes
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — observer perspective determines which lattice state is active
+- [EQ10_CHRONO_SPACE_LATTICE.md](../math/EQ10_CHRONO_SPACE_LATTICE.md) — the formal mathematical equation for this concept
+- [EQ7_BRANCHING_PROBABILITY.md](../math/EQ7_BRANCHING_PROBABILITY.md) — branching probability governs lattice expansion
+- [QUANTUM_PHYSICS_ARGUMENT.md](../arguments/QUANTUM_PHYSICS_ARGUMENT.md) — space-time lattice compared to quantum mechanics
+
+---
+
+_Open for future expansion and respectful debate._

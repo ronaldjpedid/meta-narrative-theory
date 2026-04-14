@@ -29,5 +29,18 @@ Where:
 If an agent has high agency, low fear, and receives restorative support, $L$ will be maximized, leading to healing and positive narrative branching.
 
 ## References
-- See RESTORATION_EQUATION_LOVE_FROM_FEAR.md for the process of transforming fear into love.
-- See FEAR_EQUATION.md for the destructive dynamics of fear.
+
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration factor ($R$) is central to this equation
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency ($A$) is the primary capacity driver for LOVE
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — LOVE emerges from the convergence of agency, empathy, and connection
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — LOVE is the constructive pole in the LOVE/FEAR duality
+- [FEAR_EQUATION.md](FEAR_EQUATION.md) — the destructive counterpart; $F$ appears directly in this equation
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](RESTORATION_EQUATION_LOVE_FROM_FEAR.md) — the formal transformation process from FEAR to LOVE
+- [4_GENERATIVE_ACT_OF_LOVE.md](4_GENERATIVE_ACT_OF_LOVE.md) — the cosmological expression of the LOVE force
+- [ENTROPY_AND_RESTORATION_ARGUMENT.md](../arguments/ENTROPY_AND_RESTORATION_ARGUMENT.md) — LOVE as the systemic response to entropy
+- [META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md](../arguments/META_NARRATIVE_OFFICIAL_THEORY_ARGUMENT.md) — LOVE as foundational constructive force in the full theory
+- [LOVE_LIFE_OVER_VIOLENT_EXTINCTION.md](../system-acronyms/LOVE_LIFE_OVER_VIOLENT_EXTINCTION.md) — acronym definition
+
+---
+
+_Open for future expansion and respectful debate._

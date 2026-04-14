@@ -44,3 +44,22 @@ $$
 ---
 
 *This equation is the formal protocol for healing and reintegration, ensuring the system can always restore from FEAR to LOVE.*
+
+---
+
+## References
+
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — the law this equation formally implements
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — FEAR and LOVE as the fundamental duality axis
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — care interventions ($C$) and reconciliation ($R$) require agency
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — restoration produces emergent reintegration
+- [FEAR_EQUATION.md](FEAR_EQUATION.md) — starting state modeled here
+- [LOVE_EQUATION.md](LOVE_EQUATION.md) — target state modeled here
+- [EQ8_FEEDBACK_EQUATION.md](EQ8_FEEDBACK_EQUATION.md) — feedback dynamics during restoration process
+- [ENTROPY_AND_RESTORATION_ARGUMENT.md](../arguments/ENTROPY_AND_RESTORATION_ARGUMENT.md) — philosophical and scientific grounding
+- [FORGIVENESS_AND_RESTORATION_PROTOCOL.md](../protocols/personal-restoration/FORGIVENESS_AND_RESTORATION_PROTOCOL.md) — the operational protocol using this equation
+- [CARE_COMMUNITY_ACCOUNTABILITY_RESTORATION_EMPATHY.md](../system-acronyms/CARE_COMMUNITY_ACCOUNTABILITY_RESTORATION_EMPATHY.md) — CARE acronym maps to this equation
+
+---
+
+_Open for future expansion and respectful debate._

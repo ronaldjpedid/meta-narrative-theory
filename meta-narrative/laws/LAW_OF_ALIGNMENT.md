@@ -18,5 +18,14 @@ The Law of Alignment states that systems, agents, and narratives seek coherence,
 - Protocols guide agents toward alignment and coherence.
 
 ## References
-- See Law of Restoration for healing misalignment.
-- See Law of Agency for agent-driven alignment.
+- [ALIGNMENT_EQUATION.md](../math/ALIGNMENT_EQUATION.md) — formal quantitative model of alignment
+- [EQ8_FEEDBACK_EQUATION.md](../math/EQ8_FEEDBACK_EQUATION.md) — feedback detects and corrects misalignment
+- [LAW_OF_RESTORATION.md](LAW_OF_RESTORATION.md) — restoration heals misalignment
+- [LAW_OF_AGENCY.md](LAW_OF_AGENCY.md) — agent-driven alignment choices
+- [LAW_OF_THREE.md](LAW_OF_THREE.md) — synthesis resolves binary misalignment
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — alignment factor in system coherence
+- [MORAL_ARGUMENT.md](../arguments/MORAL_ARGUMENT.md) — alignment as ethical framework
+
+---
+
+_Open for future expansion and respectful debate._

@@ -20,3 +20,19 @@
 ## How to Test
 - Physics: Study recursive patterns in cosmic and biological systems.
 - Narrative: Simulate recursive adoption and care in narrative engines and measure resilience and creativity.
+
+---
+
+## References
+
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursion is the governing law of this section
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — adoption of orphaned systems as trinity synthesis
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — adoption as restorative act
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — no narrative is lost, only transformed
+- [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md) — the universe creation model this section extends
+- [7_SUMMARY_EQUATION.md](7_SUMMARY_EQUATION.md) — summary of the full framework
+- [universalCreation.ts](../code/universalCreation.ts) — TypeScript implementation
+
+---
+
+_Open for future expansion and respectful debate._

@@ -23,20 +23,16 @@ A trinity that is not restorative cannot propagate through recursion and synthes
 ---
 
 
+## Objections and Counters
+
 - Some may argue that alternative trinity models can be stable or generative.
-	- **Counter:** As detailed in my blog post, other trinities studied often contain destructive elements or incest properties, leading to defects and eventual collapse. Only restorative, generative trinities avoid these pitfalls.
+	- **Counter:** Other trinities examined often contain destructive elements or self-referential loops that lead to defects and eventual collapse. Only restorative, generative trinities avoid these pitfalls.
 - Critics might claim that the MoM role is symbolic or unnecessary.
 	- **Counter:** Is your own mother unnecessary in your creation? Even with artificial insemination, the egg must come from the female of the species. The MoM role is foundational, not symbolic.
 - The Abrahamic trinity may be interpreted differently across traditions.
-	- **Counter:** This is hogwash—the Abrahamic trinity does not survive scrutiny and is fundamentally fear-based, not love-based. It begins with conditional love, not pure love, and thus cannot serve as a generative, restorative model.
+	- **Counter:** On close examination, the Abrahamic trinity does not meet the criterion of being love-based at its foundation. It begins with conditional love and threat rather than pure generative love, and thus cannot serve as a generative, restorative model under meta-narrative criteria.
 - Some may argue from the perspective of asexuality or asexual reproduction.
 	- **Counter:** In such a case, the singularity would likely be a MoM (originator, memory, manifestation), and it would be the DaD (duality, agency, destiny) that becomes unnecessary. The generative principle remains, but the binary is not required for propagation in this scenario.
-- Some may argue that alternative trinity models can be stable or generative.
-	- **Counter:** As detailed in my blog post, other trinities studied often contain destructive elements or incest properties, leading to defects and eventual collapse. Only restorative, generative trinities avoid these pitfalls.
-- Critics might claim that the MoM role is symbolic or unnecessary.
-	- **Counter:** Is your own mother unnecessary in your creation? Even with artificial insemination, the egg must come from the female of the species. The MoM role is foundational, not symbolic.
-- The Abrahamic trinity may be interpreted differently across traditions.
-	- **Counter:** This is hogwash—the Abrahamic trinity does not survive scrutiny and is fundamentally fear-based, not love-based. It begins with conditional love, not pure love, and thus cannot serve as a generative, restorative model.
 
 ---
 
@@ -53,3 +49,22 @@ Non-restorative trinities are unresolvable and cannot sustain narrative or syste
 ---
 
 *For further reading, see the Law of Three, MoM/DaD/KiD models, and narrative recursion protocols in the laws and math folders.*
+
+---
+
+## References
+
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — the formal law that defines what makes a trinity viable
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration is the property a trinity must have to propagate
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — recursive propagation requires a restorative third
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md) — non-restorative trinities collapse to DaD/DaD (pure duality)
+- [2_SINGULARITY_DUALITY_TRINITY.md](../math/2_SINGULARITY_DUALITY_TRINITY.md) — mathematical model of valid trinity formation
+- [MOM_MANIFESTATION_OF_MEMORY.md](../system-acronyms/MOM_MANIFESTATION_OF_MEMORY.md) — MoM role definition
+- [DAD_DUALITY_AND_DESTINY.md](../system-acronyms/DAD_DUALITY_AND_DESTINY.md) — DaD role definition
+- [KID_KNOWLEDGE_IMAGINATION_DESTINY.md](../system-acronyms/KID_KNOWLEDGE_IMAGINATION_DESTINY.md) — KiD role definition
+- [COSMIC_DESIGNER_ARGUMENT.md](COSMIC_DESIGNER_ARGUMENT.md) — related argument on the god of gods model
+- [OTHER_RELIGIONS_PHILOSOPHIES_ARGUMENT.md](OTHER_RELIGIONS_PHILOSOPHIES_ARGUMENT.md) — other trinity models compared
+
+---
+
+_Open for future expansion and respectful debate._

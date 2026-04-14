@@ -77,7 +77,49 @@ relationships, and creativity.
 - "I don’t get all the math and science."
 	- Response: You don’t need to understand every detail. The core idea is that reality 
 works like a story with rules, and those rules can be learned and used by anyone.
+---
 
+## References
+
+### Core Laws
+- [LAW_OF_ENTROPY.md](../laws/LAW_OF_ENTROPY.md)
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md)
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md)
+- [LAW_OF_DUALITY.md](../laws/LAW_OF_DUALITY.md)
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md)
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md)
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md)
+- [LAW_OF_ALIGNMENT.md](../laws/LAW_OF_ALIGNMENT.md)
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md)
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md)
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md)
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md)
+
+### Core Equations
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — primary formal model
+- [EQ7_BRANCHING_PROBABILITY.md](../math/EQ7_BRANCHING_PROBABILITY.md) — narrative branching
+- [EQ8_FEEDBACK_EQUATION.md](../math/EQ8_FEEDBACK_EQUATION.md) — coherence feedback
+- [LOVE_EQUATION.md](../math/LOVE_EQUATION.md)
+- [FEAR_EQUATION.md](../math/FEAR_EQUATION.md)
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](../math/RESTORATION_EQUATION_LOVE_FROM_FEAR.md)
+- [ALIGNMENT_EQUATION.md](../math/ALIGNMENT_EQUATION.md)
+
+### Related Arguments
+- [QUANTUM_PHYSICS_ARGUMENT.md](QUANTUM_PHYSICS_ARGUMENT.md)
+- [NEWTONIAN_PHYSICS_ARGUMENT.md](NEWTONIAN_PHYSICS_ARGUMENT.md)
+- [FUNDAMENTAL_FORCES_ARGUMENT.md](FUNDAMENTAL_FORCES_ARGUMENT.md)
+- [OTHER_MODERN_SCIENCE_ARGUMENT.md](OTHER_MODERN_SCIENCE_ARGUMENT.md)
+- [ANTICIPATED_OBJECTIONS_ARGUMENT.md](ANTICIPATED_OBJECTIONS_ARGUMENT.md)
+- [MORAL_ARGUMENT.md](MORAL_ARGUMENT.md)
+
+### Code Implementation
+- [masterEquation.ts](../code/masterEquation.ts)
+- [branchingProbability.ts](../code/branchingProbability.ts)
+- [metaNarrativePredictor.ts](../code/metaNarrativePredictor.ts)
+
+---
+
+_Open for future expansion and respectful debate._
 
 - "Can’t I just live my life without worrying about this?"
 	- Response: Absolutely. The theory is optional, but for those who want deeper 

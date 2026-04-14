@@ -18,3 +18,20 @@ This equation models how new possibilities (branches) emerge from the interplay 
 ## How to Test
 - Physics: Apply to models of quantum branching, many-worlds, or decision trees in complex systems.
 - Narrative: Use in story engines to predict or control branching outcomes.
+
+---
+
+## References
+
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — the law this equation directly implements
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency is the primary weighted variable
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — observer presence is a key weight term
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — branching enables emergence
+- [MASTER_EQUATION_META_NARRATIVE.md](MASTER_EQUATION_META_NARRATIVE.md) — branching probability feeds into overall system state
+- [EQ3_CUMULATIVE_AGENCY.md](EQ3_CUMULATIVE_AGENCY.md) — cumulative agency drives branch probability
+- [EQ6_OBSERVER_PRINCIPLE.md](EQ6_OBSERVER_PRINCIPLE.md) — observer term in branching formula
+- [branchingProbability.ts](../code/branchingProbability.ts) — TypeScript implementation
+
+---
+
+_Open for future expansion and respectful debate._

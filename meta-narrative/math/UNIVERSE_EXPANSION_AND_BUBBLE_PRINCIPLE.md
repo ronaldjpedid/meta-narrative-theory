@@ -20,3 +20,19 @@ The bubble principle ensures that each universe is a meaningful, bounded story, 
 ## How to Test
 - Physics: Study cosmic bubble models, inflation, and universe closure scenarios.
 - Narrative: Simulate universe growth and closure in story engines and analyze emergent arcs.
+
+---
+
+## References
+
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — conservation prevents endless dilution across bubble boundaries
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — each new bubble is a narrative branch seeded by a new event
+- [LAW_OF_EMERGENCE.md](../laws/LAW_OF_EMERGENCE.md) — local universes emerge rather than expand uniformly
+- [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md) — the seed event (big bang step) that triggers each bubble
+- [EQ1_BASE_REALITY_SEED.md](EQ1_BASE_REALITY_SEED.md) — the base reality seed equation governing bubble initialization
+- [COSMIC_DESIGNER_ARGUMENT.md](../arguments/COSMIC_DESIGNER_ARGUMENT.md) — bubble principle as evidence for emergent cosmology
+- [QUANTUM_PHYSICS_ARGUMENT.md](../arguments/QUANTUM_PHYSICS_ARGUMENT.md) — many-worlds bubble analogy in quantum physics
+
+---
+
+_Open for future expansion and respectful debate._

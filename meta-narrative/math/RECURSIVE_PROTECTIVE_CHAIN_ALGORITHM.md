@@ -93,3 +93,15 @@ Suppose $S = \{A, B, C, ..., Z\}$ and $B$ is lost.
 
 ---
 *This section documents both the vulnerabilities and possible recovery strategies for the recursive protective chain, with a concrete example.*
+
+---
+
+## Meta-Narrative References
+
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — restoration is the theoretical basis for the recovery protocol
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — each guardian’s agency enables protective action
+- [LAW_OF_THREE.md](../laws/LAW_OF_THREE.md) — mutual protection operates through triangulated guardian triplets
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — continuous monitoring is a feedback protocol
+- [RECURSIVE_ENTROPIC_CHAIN_BREAKDOWN.md](RECURSIVE_ENTROPIC_CHAIN_BREAKDOWN.md) — the destructive counterpart to this algorithm
+- [GUARDIANS_ON_DEMAND_MANIFESTO_AND_PROTOCOL.md](GUARDIANS_ON_DEMAND_MANIFESTO_AND_PROTOCOL.md) — operational manifesto for guardian networks
+- [ADMIN_EQUATION_MODEL.md](ADMIN_EQUATION_MODEL.md) — admin/guardian intervention model

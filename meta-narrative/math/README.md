@@ -40,8 +40,21 @@ This folder consolidates all equations, mathematical models, and formal logic us
 - [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md): Models negative value collapse and recovery.
 - [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](RESTORATION_EQUATION_LOVE_FROM_FEAR.md): Models the restoration process from FEAR to LOVE, with predictive and preventative logic.
 - [UNIVERSE_EXPANSION_AND_BUBBLE_PRINCIPLE.md](UNIVERSE_EXPANSION_AND_BUBBLE_PRINCIPLE.md): Universe expansion and bubble principle modeling.
-- [1_CORE_AXIOM.md](1_CORE_AXIOM.md): Defines the foundational axiom of the meta-narrative system.
-- [2_SINGULARITY_DUALITY_TRINITY.md](2_SINGULARITY_DUALITY_TRINITY.md): Explores singularity, duality, and trinity as core narrative structures.
+
+---
+
+## How to Use
+- Review the index to locate the equation relevant to your inquiry.
+- Each file documents: purpose, variable definitions, context of use, and cross-references.
+- For new equations, create a new markdown file and add it to this index.
+
+---
+
+## Contribution Guidelines
+- Document each equation with purpose, variable definitions, context, and cross-references.
+- Use consistent mathematical notation with existing equations.
+- Cross-reference related laws, protocols, and code files.
+- Log new additions in the appropriate reflection log.
 - [3_BINARY_PAIR_STABILITY.md](3_BINARY_PAIR_STABILITY.md): Models binary pair stability in narrative and reality.
 - [4_GENERATIVE_ACT_OF_LOVE.md](4_GENERATIVE_ACT_OF_LOVE.md): Formalizes the generative act of love as a creative force.
 - [5_UNIVERSE_CREATION_MODEL.md](5_UNIVERSE_CREATION_MODEL.md): Details the process and logic of universe creation.

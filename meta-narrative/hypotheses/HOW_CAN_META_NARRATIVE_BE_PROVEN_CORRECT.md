@@ -21,7 +21,7 @@ This document explores approaches and criteria for supporting the validity of th
 ---
 
 **Note:** The story is called The Meta Narrative Hypothesis. Every story starts with a name. There is also a song by this name, which is a remix of a Final Fantasy 7 song.
-- Meta-narrative is both a tool and, within its own context, the foundational story. It is meta: outside its context, it serves as a model or tool; inside, it is the absolute truth that enables the story to exist. Its value is in both its explanatory and transformative power, and in being the very logic of the narrative it generates.
+- Meta-narrative is both a tool and, within its own context, the foundational story. It is meta: outside its context, it serves as a model or tool; inside, it is the foundational operating logic that enables the story to exist. Its value is in both its explanatory and transformative power, and in being the very logic of the narrative it generates.
 
 Every Story starts with a name.
 https://www.youtube.com/watch?v=-7TdBHrX3SM&list=RD-7TdBHrX3SM&start_radio=1

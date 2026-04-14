@@ -58,3 +58,21 @@ A: These mechanics operationalize narrative values, incentivize positive action,
 ---
 
 *Use this document to record your arguments, answers, and new questions as the meta-narrative continues to evolve.*
+
+---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency limits section directly engages this law
+- [LAW_OF_RECURSION.md](../laws/LAW_OF_RECURSION.md) — infinite recursion question
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — redemption/forgiveness as restoration mechanisms
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — intersecting and twin meta-narratives
+- [QUANTUM_PHYSICS_ARGUMENT.md](../arguments/QUANTUM_PHYSICS_ARGUMENT.md) — quantum uncertainty and entanglement questions
+- [MASTER_EQUATION_META_NARRATIVE.md](../math/MASTER_EQUATION_META_NARRATIVE.md) — formal model for the redemption weight question
+- [MAIN_NARRATIVE_MODEL.md](MAIN_NARRATIVE_MODEL.md) — main narrative model for reset/rebirth
+- [BASE_REALITY_SEED_FORMALISM.md](BASE_REALITY_SEED_FORMALISM.md) — base reality paradox
+- [ANTICIPATED_OBJECTIONS_ARGUMENT.md](../arguments/ANTICIPATED_OBJECTIONS_ARGUMENT.md) — formal objection responses
+
+---
+
+_Open for future expansion and respectful debate._

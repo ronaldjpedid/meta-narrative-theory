@@ -31,3 +31,18 @@ The ether state models narrative and physical liminality, allowing for restorati
 ## How to Test
 - Physics: Model liminal states in quantum, biological, or social systems.
 - Narrative: Simulate ether transitions and measure their impact on narrative recovery and resilience.
+
+---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agents in the ether retain agency; the defining property of the ether state
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — $T_{D \to E}$ is a restoration act from dead to ether state
+- [LAW_OF_CONSERVATION.md](../laws/LAW_OF_CONSERVATION.md) — ether state preserves information and narrative potential
+- [FATE_ALGORITHM.md](FATE_ALGORITHM.md) — ether is the liminal state between fate branches
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — dead state collapse avoided through ether transitions
+- [ADMIN_EQUATION_MODEL.md](ADMIN_EQUATION_MODEL.md) — guardian/admin triggers ether-to-main transitions
+
+---
+
+_Open for future expansion and respectful debate._

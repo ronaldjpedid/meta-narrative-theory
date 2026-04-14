@@ -35,3 +35,19 @@ Fate is not fixed; with the right anchors and agency, the story can always branc
 ## How to Test
 - Physics: Model branching and override in adaptive or resilient systems.
 - Narrative: Simulate fate branching and revival in story engines and analyze outcomes.
+
+---
+
+## References
+
+- [LAW_OF_AGENCY.md](../laws/LAW_OF_AGENCY.md) — agency $A$ is the primary variable that redirects fate
+- [LAW_OF_RESTORATION.md](../laws/LAW_OF_RESTORATION.md) — revival $R=1$ is a restoration act
+- [LAW_OF_NARRATIVE_BRANCHING.md](../laws/LAW_OF_NARRATIVE_BRANCHING.md) — fate branching is a special case of narrative branching
+- [EQ7_BRANCHING_PROBABILITY.md](EQ7_BRANCHING_PROBABILITY.md) — branching probability model this algorithm relies on
+- [RESTORATION_EQUATION_LOVE_FROM_FEAR.md](RESTORATION_EQUATION_LOVE_FROM_FEAR.md) — the restoration pathway for the revival case
+- [NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md](NEGATIVE_VALUE_COLLAPSE_MODEL_AND_PROTOCOL.md) — irreversible fate collapse when revival fails
+- [GUIDE_FOR_GRIEF_AND_LOSS.md](../guides/GUIDE_FOR_GRIEF_AND_LOSS.md) — applied fate navigation in grief
+
+---
+
+_Open for future expansion and respectful debate._
